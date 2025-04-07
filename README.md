@@ -8,7 +8,7 @@ Detalhamento
 # 3. Modelagem
 # 4. Carga
 # 5. Análise
-## 5a. - Qualidade dos dados
+## 5.a - Qualidade dos dados
 ## 5.b - Solução do problema
 # 6. Entrega
 # 7. Autoavaliação
