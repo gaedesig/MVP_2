@@ -7,6 +7,8 @@ construir um pipeline de dados utilizando tecnologias na nuvem. O pipeline irá 
 ## Objetivo
 Qual problema desejo resolver com esse MVP?
 
+Quais perguntas (enumeradas) quero responder?
+
 ## Detalhamento
 # 1. Busca pelos dados
 Kaggle - Vendas ecommerce pré-pandemia
