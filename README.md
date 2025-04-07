@@ -19,5 +19,5 @@ Kaggle - Vendas ecommerce pré-pandemia
 ## 5.a - Qualidade dos dados
 ## 5.b - Solução do problema
 # 6. Entrega
-# 7. Autoavaliação
+# 7. Autoavaliação  
 11. 
