@@ -4,6 +4,7 @@ Ambiente projeto MVP engenharia de dados
 # ITENS MVP
 Detalhamento
 # 1. Busca pelos dados
+Kaggle - Vendas ecommerce pré-pandemia
 # 2. Coleta
 # 3. Modelagem
 # 4. Carga
