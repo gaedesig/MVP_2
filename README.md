@@ -34,6 +34,7 @@ Quais perguntas (enumeradas) quero responder?
 Kaggle - Vendas ecommerce pré-pandemia
 # 2. Coleta
 # 3. Modelagem
+"...deve ser construído um Catálogo de Dados contendo minimamente uma descrição detalhada dos dados e seus domínios, contendo valores mínimos e máximos esperados para dados numéricos, e possíveis categorias para dados categóricos."
 # 4. Carga
 # 5. Análise
 ## 5.a - Qualidade dos dados
