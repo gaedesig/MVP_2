@@ -37,6 +37,7 @@ Kaggle - Vendas ecommerce pré-pandemia
 "...deve ser construído um Catálogo de Dados contendo minimamente uma descrição detalhada dos dados e seus domínios, contendo valores mínimos e máximos esperados para dados numéricos, e possíveis categorias para dados categóricos."
 
 Levantar informações kaggle
+
 # 4. Carga
 # 5. Análise
 ## 5.a - Qualidade dos dados
