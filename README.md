@@ -1,5 +1,6 @@
 # MVP_2
 Ambiente projeto MVP engenharia de dados
+
 Aluno Gaetano Signorini
 
 ## Descrição
@@ -20,13 +21,13 @@ Por essa análise, pretendo conseguir responder perguntas como:
 9.	Qual faixa etária mais usa o cartão de crédito para pagar as compras?
 10.	Quais os status dos pedidos em determinado período de tempo?
 11.	Quais os estados têm mais clientes registrados?
-      
+  
 
 ## Detalhamento
 ## 1. Busca pelos dados
-
-Kaggle - Vendas ecommerce pré-pandemia
+Para este MVP, optei por utilizar uma base de dados pública que apresenta maior potencial de conter as informações necessárias para a análise proposta. A base selecionada, disponível no Kaggle, chama-se "Vendas ecommerce pré-pandemia", da Olist. Essa base possui, pelo menos, oito arquivos CSV, os quais agregam dados relevantes e abrangentes sobre o comércio eletrônico, permitindo uma análise detalhada e pertinente aos objetivos do projeto.
 # 2. Coleta
+
 # 3. Modelagem
 "...deve ser construído um Catálogo de Dados contendo minimamente uma descrição detalhada dos dados e seus domínios, contendo valores mínimos e máximos esperados para dados numéricos, e possíveis categorias para dados categóricos."
 
