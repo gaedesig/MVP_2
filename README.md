@@ -27,11 +27,9 @@ Por essa análise, pretendo conseguir responder perguntas como:
 ## 1. Busca pelos dados
 Para este MVP, optei por utilizar uma base de dados pública que apresenta maior potencial de conter as informações necessárias para a análise proposta. A base selecionada, disponível no Kaggle, chama-se "Vendas ecommerce pré-pandemia", da Olist. Essa base possui, pelo menos, oito arquivos CSV, os quais agregam dados relevantes e abrangentes sobre o comércio eletrônico, permitindo uma análise detalhada e pertinente aos objetivos do projeto.
 # 2. Coleta
-
+Para coletar e tratar os dados da base, disponível no Kaggle, utilizei o ambiente Databricks Community Edition. Este ambiente proporcionou as ferramentas necessárias para manipular e processar os dados, utilizando linguagens Python e SQL. Os arquivos foram armazenados no meu ambiente GitHub, inclusive o notebook Databricks chamado "MVP_2_FINAL.ipynb”, com o código desenvolvido para realizar esse processo
 # 3. Modelagem
-"...deve ser construído um Catálogo de Dados contendo minimamente uma descrição detalhada dos dados e seus domínios, contendo valores mínimos e máximos esperados para dados numéricos, e possíveis categorias para dados categóricos."
-
-Levantar informações kaggle
+Os dados do projeto estão organizados em tabelas, sendo cada uma gerada a partir dos arquivos CSV da base. O catálogo de dados, que descrevem os dados contidos em cada tabela, bem como os seus respectivos domínios, está em arquivos PDF , disponíveis no repositório. Exemplo: 
 
 # 4. Carga
 # 5. Análise
